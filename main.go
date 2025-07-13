@@ -24,3 +24,5 @@ func main() {
 	result := calculator.Calculate(num1, num2, operator)
 	fmt.Printf("Результат: %.2f\n", result)
 }
+
+//test
